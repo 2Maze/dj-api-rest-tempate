@@ -1,0 +1,6 @@
+django
+djangorestframework
+drf-yasg
+openapi
+psycopg2-binary
+celery
